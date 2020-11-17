@@ -3,7 +3,7 @@
 <!--
 **khairinahusny/khairinahusny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" raw="true" width="480" height="280" />
+<img align="right" alt="GIF" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" raw="true" width="450" height="280" />
 
 :mortar_board: I'm a computer science graduate from University of Malaya (majored in Artificial Intelligence :sparkles:) 
 
