@@ -3,7 +3,7 @@
 <!--
 **khairinahusny/khairinahusny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-:mortar_board: I'm a computer science graduate from University of Malaya (majored in Artificial Intelligence:sparkles:) 
+:mortar_board: I'm a computer science graduate from University of Malaya (majored in Artificial Intelligence :sparkles:) 
 
 I’m currently working on real-time OCR and other deep learning stuffs! :satisfied: 
 
