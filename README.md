@@ -7,8 +7,7 @@
 
 :mortar_board: I'm a computer science graduate from University of Malaya (majored in Artificial Intelligence :sparkles:) 
 
-:seedling: Was an AI apprentice at Skymind AI Berhad for 6 months. Striving to be a Deep Learning Engineer soon!:muscle:
-
+:seedling: Was an AI apprentice at Skymind AI Berhad for 6 months.
 I’m currently working on real-time OCR projects and other deep learning stuffs! :satisfied: 
 
 
