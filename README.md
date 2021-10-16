@@ -10,7 +10,7 @@
 :seedling: Was an AI apprentice at Skymind AI Berhad for 6 months. Striving to be a Deep Learning Engineer soon!:muscle:
 
 I’m currently working on real-time OCR projects and other deep learning stuffs! :satisfied: 
-I do have a love/hate relationship with programming tho :joy:
+
 
 <h4>Motto:"The harder the struggle, the more glorious the triumph. Self-realization demands very great struggle."</h4>
 
